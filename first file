@@ -1,0 +1,8 @@
+this is my first file 
+git clone<url>
+cd <repo name >
+code .
+create a file with some txt 
+git add .
+git commit -m "your comment  message"
+git push
